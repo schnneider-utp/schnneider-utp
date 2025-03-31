@@ -63,9 +63,32 @@ Here are some ideas to get you started:
 
 ### Contáctame
 
-Haz clic en el ícono de Gmail para copiar mi correo al portapapeles:
+<div align="left">
+  <!-- Sección de contacto por Gmail -->
+  <div>
+    <a href="mailto:jaenarias9@gmail.com">
+      <img 
+        src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+        height="35" 
+        alt="gmail logo" 
+      />
+    </a>
+    <p>jaenarias9@gmail.com</p>
+  </div>
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:jaenarias9@gmail.com)
+  <!-- Sección de LinkedIn -->
+  <div>
+    <a href="https://www.linkedin.com/in/jean-schnneider-arias-suarez-45537425b/" target="_blank">
+      <img 
+        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+        height="35" 
+        alt="linkedin logo" 
+      />
+    </a>
+    <p>linkedin.com/in/jean-schnneider-arias-suarez-45537425b</p>
+  </div>
+</div>
+
 
 ## Connect with me
 
