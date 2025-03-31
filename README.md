@@ -2,7 +2,7 @@
 
 
 <p align="justify">
-I am a student at the Technological University of Pereira, currently enrolled in a preparatory program in Software Development Technology. I am in my fifth semester with honors and will soon be advancing to Systems Engineering. I am from Bogotá and currently reside in Pereira.
+I'm a student at the Technological University of Pereira, currently completing the propaedeutic cycle in Software Development Technology to later move on to Systems Engineering. I'm currently in my fifth semester with honor tuition. I'm from Bogotá and live in Pereira. I'm 20 years old.
 </p>
 
 ## My Skill Set  
