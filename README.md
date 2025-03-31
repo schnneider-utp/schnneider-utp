@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### Contáctame
 
 <div align="left">
-  <!-- Sección de contacto por Gmail -->
+  <!-- Sección de Gmail -->
   <div>
     <a href="mailto:jaenarias9@gmail.com">
       <img 
