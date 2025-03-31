@@ -61,35 +61,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-### Contáctame
-
-<div align="left">
-  <!-- Sección de Gmail -->
-  <div>
-    <a href="mailto:jaenarias9@gmail.com">
-      <img 
-        src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-        height="35" 
-        alt="gmail logo" 
-      />
-    </a>
-    <p>jaenarias9@gmail.com</p>
-  </div>
-
-  <!-- Sección de LinkedIn -->
-  <div>
-    <a href="https://www.linkedin.com/in/jean-schnneider-arias-suarez-45537425b/" target="_blank">
-      <img 
-        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-        height="35" 
-        alt="linkedin logo" 
-      />
-    </a>
-    <p>linkedin.com/in/jean-schnneider-arias-suarez-45537425b</p>
-  </div>
-</div>
-
-
 ## Connect with me
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/c04b1f0f75327c771fc621444b4abac27c3f2b0dbb02ae8e626b811d765416d1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f513474564332634c5f776f414141414d2f6e6f6f742d6e6f6f742d61706f63616c797073652e676966"  />
@@ -97,11 +68,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/jean-schnneider-arias-suarez-45537425b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://wa.me/573155623946?text=¡Hola!%20Quiero%20ponerme%20en%20contacto%20contigo." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
+
+###
 
 ###
 
