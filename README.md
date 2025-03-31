@@ -83,7 +83,6 @@ I am a dedicated student at the Technological University of Pereira, currently p
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=schnneider-utp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Estadísticas" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schnneider-utp&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Lenguajes más usados" />
-  <img src="https://streak-stats.demolab.com?user=schnneider-utp&theme=radical&hide_border=true" height="180" alt="Racha de contribuciones" />
 </div>
 
 ###
