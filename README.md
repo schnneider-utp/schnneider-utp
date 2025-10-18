@@ -2,7 +2,7 @@
 
 
 <p align="justify">
-I'm a student at the Technological University of Pereira, currently completing the propaedeutic cycle in Software Development Technology to later move on to Systems Engineering. I'm currently in my fifth semester with honor tuition. I'm from Bogotá and live in Pereira. I'm 20 years old.
+I'm a student at the Technological University of Pereira, currently completing the propaedeutic cycle in Software Development Technology to later move on to Systems Engineering. I'm currently in my sixth semester with honor tuition. I'm from Bogotá and live in Pereira. I'm 20 years old.
 </p>
 
 ## My Skill Set  
