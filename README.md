@@ -58,19 +58,34 @@ I'm a student at the Technological University of Pereira, currently completing t
 ###
 
 <div align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/jean-schnneider-arias-suarez-45537425b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+
+  <!-- WhatsApp -->
   <a href="https://wa.me/573155623946?text=¡Hola!%20Quiero%20ponerme%20en%20contacto%20contigo." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
+
+  <!-- Email 1-->
+  <a href="mailto:schnneider.arias@utp.edu.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
+
+  <!-- Email 2-->
+  <a href="mailto:jaenarias9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
+
+  <!-- Contador de visitas -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=schnneider-utp" height="35" alt="Contador de visitas" />
 </div>
 
 ###
 
 ###
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=schnneider-utp)
 
 ###
 
