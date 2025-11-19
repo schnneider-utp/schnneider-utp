@@ -70,9 +70,7 @@ I'm a student at the Technological University of Pereira, currently completing t
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/schnneider-utp/count.svg?"  />
-</div>
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=schnneider-utp)
 
 ###
 
